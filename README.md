@@ -2,13 +2,13 @@
 My first repository on GitHub.
 This project is about student online learning behavior.
 
-**Project Goal: 
+## Project Goal: 
 Find what the most important factors that impact students’ engagement and better understand student online learning behavior.  
 
-**Methodology: 
+## Methodology: 
 Logistic regression and stepwise regression methods were applied to predict whether a student was “incomplete” (i.e. dropped out of the course) or “complete” (i.e. did not drop out of the course) for a given quarter based on different combinations of survey, engagement, and attendance data.
 
-**Model Performance: 
+## Model Performance: 
 The best predictive model had the highest average ROC AUC (0.8383), average sensitivity (0.5394), and average specificity (0.9257).
 Best model used stepwise selection method and selected parts of the predictors.(14 out of 27)
 
