@@ -2,6 +2,9 @@
 My first repository on GitHub.
 This project is about student online learning behavior.
 
+### Data:
+Student interaction data including clicks, likes, comments, uploads, etc. 
+
 ### Project Goal: 
 Find what the most important factors that impact students’ engagement and better understand student online learning behavior.  
 
