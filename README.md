@@ -1,4 +1,4 @@
-# Capstone Porject: Online Learning Behavior Study
+# Capstone Porject: Online Learning Behavior Study | R
 My first repository on GitHub.
 This project is about student online learning behavior.
 
